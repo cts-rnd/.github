@@ -10,7 +10,7 @@ We are a dedicated team working on a variety of projects in the Dry or Robot Cle
 This organization is private, and access is granted by invitation only. If you are a team member or have received an invitation, please log in to view and contribute to our repositories.
 
 ## Contact
-For any inquiries or if you need assistance regarding access, please contact us at [your contact email].
+For any inquiries or if you need assistance regarding access, please contact us at [bhpark@cts2020.com].
 
 ## Code of Conduct
 We adhere to a strict code of conduct to ensure a respectful and productive environment for all members. Please review our [Code of Conduct](link) for more details.
