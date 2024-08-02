@@ -4,7 +4,7 @@
 This GitHub organization is a private workspace dedicated to our team's projects and collaboration. Access is restricted to approved members only.
 
 ## About Us
-We are a dedicated team working on a variety of projects in [Your Field/Industry]. Our organization focuses on innovation, collaboration, and delivering high-quality results.
+We are a dedicated team working on a variety of projects in the Dry or Robot Cleaner. Our organization focuses on innovation, collaboration, and delivering high-quality results.
 
 ## Access
 This organization is private, and access is granted by invitation only. If you are a team member or have received an invitation, please log in to view and contribute to our repositories.
