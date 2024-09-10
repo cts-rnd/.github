@@ -13,10 +13,10 @@ This organization is private, and access is granted by invitation only. If you a
 For any inquiries or if you need assistance regarding access, please contact us at [bhpark@cts2020.com].
 
 ## Code of Conduct
-We adhere to a strict code of conduct to ensure a respectful and productive environment for all members. Please review our [Code of Conduct](link) for more details.
+We adhere to a strict code of conduct to ensure a respectful and productive environment for all members. <!-- Please review our [Code of Conduct](link) for more details. -->
 
 ## Contribution
-We value the contributions of our team members. If you have suggestions or want to contribute, please follow our [Contribution Guidelines](link) available within the private repositories.
+We value the contributions of our team members. <!-- If you have suggestions or want to contribute, please follow our [Contribution Guidelines](link) available within the private repositories. -->
 
 ## Documentation
 Detailed documentation for our projects is available to team members within the respective repositories.
